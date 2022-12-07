@@ -13,7 +13,7 @@
   "devDependencies": {
     "aws-sdk": "^2.674.0",
     "dotenv": "^8.2.0",
-    "serverless": "^1.70.0",
+    "serverless": "^3.25.1",
     "serverless-export-env": "^1.2.0",
     "serverless-pseudo-parameters": "^2.5.0"
   },
